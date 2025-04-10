@@ -1,3 +1,3 @@
 # Aufgabe: GitHub Repository Setup und Workflow
 
-print('Hallo Git!')
+print('Hallo aus dem Master-Branch!')
